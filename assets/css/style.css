@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,12 +33,12 @@ body {
 }
 
 .header div ul {
-    list-style-type: none;
+    list-style-position: none;
+
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
-    border: black;
     margin-left: 25px;
 }
 
@@ -194,7 +194,6 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    border-style: outset;
 }
 
 .footer h2 {
