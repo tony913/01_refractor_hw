@@ -38,6 +38,7 @@ body {
 
 .header div ul li {
     display: inline-block;
+    border: black;
     margin-left: 25px;
 }
 
